@@ -14,7 +14,7 @@
 <a href="https://twitter.com/@ibrahimsetup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ibrahimsetup" height="30" width="40" /></a>
 <a href="https://fb.com/adebayoibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adebayoibrahim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ abdulmumeen-ibrahim-987b41270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ abdulmumeen-ibrahim-987b41270" height="30" width="40" /></a>
- <a href="https://shorturl.at/lrsQS" target="blank" title = "Download Resume"><img align="center" style = "border-radius:50%;"src="https://www.clipartmax.com/png/middle/275-2750441_resume-icons-curriculum-vitae.png" alt="Curiculum Vitae" height="30" width="40" /></a>
+ <a href="https://drive.google.com/file/d/1BpYCBqImR70gcgRp6M753-8pU9xIqFY0/view?usp=drive_link" target="blank" title = "Download Resume"><img align="center" style = "border-radius:50%;"src="https://www.clipartmax.com/png/middle/275-2750441_resume-icons-curriculum-vitae.png" alt="Curiculum Vitae" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
