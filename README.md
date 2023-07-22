@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **python Django**
+- 🌱 Currently learning **python Django**
 
 - 💬 Ask me about **javaScript, React**
 
