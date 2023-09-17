@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **python Django**
 
-- 💬 Ask me about **javaScript, React**
+- 💬 Ask me about **javaScript, React and Python**
 
 - 📫 Send Me an Email **setup017@gmail.com**
 
