@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Currently learning **python Django**
+- 🌱 Also Developing **python Django** Apps
 
 - 💬 Ask me about **javaScript, React and Python**
 
