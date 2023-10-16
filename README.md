@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Also Developing **python Django** Apps
+- 🌱 Also Developing **Python Django** Apps
 
 - 💬 Ask me about **javaScript, React and Python**
 
