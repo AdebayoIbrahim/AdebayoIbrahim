@@ -9,7 +9,7 @@
 
 - 📫 Send Me an Email 👉 **setup017@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 👇</h3>
 <p align="left">
 <a href="https://twitter.com/@ibrahimsetup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ibrahimsetup" height="30" width="40" /></a>
 <a href="https://shorturl.at/opA29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adebayoibrahim" height="30" width="40" /></a>
