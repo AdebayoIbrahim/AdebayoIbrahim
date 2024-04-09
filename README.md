@@ -5,7 +5,7 @@
 
 - 🌱 Also Developing **Python Django** Apps
 
-- 💬 Ask me about **javaScript, React, Python and Django**
+- 💬 Ask me about **javaScript, React, Python, Django and Data Structures**
 
 - 📫 Send Me an Email 👉 **setup017@gmail.com**
 
