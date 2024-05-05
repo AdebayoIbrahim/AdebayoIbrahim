@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Abdulmumeen Ibrahim</h1>
 <h2 align="center">An Ambitious Web Programmer👨‍💻 from Nigeria 🇳🇬</h2>
-<h4>Frontend Developer</h4>
+<h3>Frontend Developer || React js || Next js || Typescript</h3>
 
 
 - 🌱 Also Developing **Python Django** Apps
