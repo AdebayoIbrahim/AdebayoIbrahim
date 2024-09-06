@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Abdulmumeen Ibrahim</h1>
+<h1 align="center">Hi👋, I'm Ibrahim</h1>
 <h2 align="center">An Ambitious Web Programmer👨‍💻 from Nigeria 🇳🇬</h2>
 <h3>Frontend Developer || React js || Next js || Typescript</h3>
 
