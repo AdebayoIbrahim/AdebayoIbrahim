@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Ibrahim</h1>
 <h2 align="center">An Ambitious Web Programmer👨‍💻 from Nigeria 🇳🇬</h2>
-<h3>Frontend Developer || React js || Next js || Typescript</h3>
+<h3>FullStack Engineer</h3>
 
 
 - 🌱 Also Developing **Python Django** Apps
@@ -12,10 +12,10 @@
 <h3 align="left">Connect with me 👇</h3>
 <p align="left">
 <a href="https://twitter.com/@ibrahimsetup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ibrahimsetup" height="30" width="40" /></a>
-<a href="https://shorturl.at/opA29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adebayoibrahim" height="30" width="40" /></a>
+<!-- <a href="https://shorturl.at/opA29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adebayoibrahim" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/ibrahim-setup/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ abdulmumeen-ibrahim-987b41270" height="30" width="40" /></a>
  <a href = "https://codepen.io/Set_Up"title = "codepen" ><img src = 'https://i.ibb.co/r4X3hRy/codepen-removebg-preview.png' align = "center" height = "50" width = "50"></a>
- <a href="https://drive.google.com/file/d/1_1fsaRlzuvJt7QKTE8YdB1z2KPzh-GZw/view" target="blank" title = "Download Resume"><img align="center" style = "border-radius:50%;"src="https://i.ibb.co/ngxQyfQ/images-removebg-preview.png" alt="Curiculum Vitae" height="50" width="70" /></a>
+<!--  <a href="https://drive.google.com/file/d/1_1fsaRlzuvJt7QKTE8YdB1z2KPzh-GZw/view" target="blank" title = "Download Resume"><img align="center" style = "border-radius:50%;"src="https://i.ibb.co/ngxQyfQ/images-removebg-preview.png" alt="Curiculum Vitae" height="50" width="70" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
